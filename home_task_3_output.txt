@@ -1,0 +1,2 @@
+Input List: 40 -> 20 -> 30 -> 10 -> null
+Sorted List: 10 -> 20 -> 30 -> 40 -> null
